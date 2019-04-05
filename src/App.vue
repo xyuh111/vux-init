@@ -17,12 +17,18 @@ export default {
     },
 }
 </script>
+<style lang="less">
+@import "~vux/src/styles/reset.less";
+body{
+	font-size: 10px;
+}
+</style>
 
 <style lang="scss" module>
 @import "./assets/css/reset.scss";
 .hhh {
-    color: #ddd;
-    font-size: 100px;
+    font-size: 20px;
+	color:#666;
     span {
         color: #fff;
     }
