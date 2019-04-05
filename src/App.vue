@@ -2,15 +2,15 @@
     <div id="app">
         <h1 :class="$style.hhh">
             {{ msg }} <span>hello</span>
-        </h1>
+             </h1>
         <router-view />
-    </div>
+      </div>
 </template>
 
 <script>
 export default {
     name: "App",
-      data() {
+         data() {
         return {
             msg: "Welcome to Your Vue.js App!",
         }
