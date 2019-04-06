@@ -14,6 +14,9 @@
 注意: vux 使用的是less，为了适配，webpack.config.js 当中配置的 less-loader 非@2x屏标准 !
 ```
 3. webpack.config.js 引入的 ./src/viewport.js 是第三方库 hotcss https://github.com/imochen/hotcss
+```
+根据当前环境计算出最适合的 viewport
+```
 
 ## 使用
 ```
