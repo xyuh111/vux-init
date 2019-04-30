@@ -1,6 +1,6 @@
 ## 介绍
 
-#### 简单的配置 webpack 引入 VUX  => 一个凑合的 Vue.js 移动端 UI 组件库
+#### 简单的配置 webpack 引入 VUX  => https://vux.li/
 
 #### 初始化项目
 1. 已配置 eslint
